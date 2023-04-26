@@ -1,0 +1,31 @@
+.salama{
+display: flex;
+flex-wrap: wrap;
+gap:1.5rem;
+}
+.salama {
+  margin-top:: 70px;
+}
+.salama{
+  margin: 70px 0;
+}
+.salama {
+display: flex;
+flex-wrap: wrap;
+gap:1.5rem;
+}
+.rose{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  width: 100%;
+}
+.salama {
+  margin-top:: 20px;
+}
+.salama{
+  margin: 70px 0;
+}
+.salama img{
+  height: 350px;
+}
